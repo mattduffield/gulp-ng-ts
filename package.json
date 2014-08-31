@@ -1,0 +1,33 @@
+{
+  "name": "gulp-ng-ts",
+  "version": "0.0.1",
+  "description": "Compile TypeScript classes to AngularJS modules.",
+  "license": "MIT",
+  "author": {
+    "name": "Matthew Duffield",
+    "email": "matt.duffield@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattduffield/gulp-ng-ts.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "css",
+    "prefix",
+    "rework"
+  ],
+  "dependencies": {
+    "through2": "~0.6.1",
+    "gulp-util": "~3.0.1",
+    "split": "~0.3.0",
+    "lodash": "~2.4.1"
+  },
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/mattduffield/gulp-ng-ts/issues"
+  },
+}
